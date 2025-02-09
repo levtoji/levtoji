@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-Started coding in my youth, currently finishing my Master in Computer Science at the TU Hamburg. Working at Lynq.tech as Backend Developer (working student). Dotnet, Python and Rust are my languages I rely on the most.
+Started coding in my youth, currently finishing my Master in Computer Science at the TU Hamburg. Working at Lynq.tech as Backend Developer (working student). C#, Python and Rust are my languages I rely on the most.
 
 *   🌍  I'm based in Hamburg
 *   ✉️  You can contact me at [lev.perschin@gmail.com](mailto:lev.perschin@gmail.com)
